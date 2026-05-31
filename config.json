@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productcpdate",
+        "uuid": 939390,
+        "checksum": "7elnur"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
